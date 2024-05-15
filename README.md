@@ -11,9 +11,9 @@ In this project, we have created an expense tracking system where users can add 
 2.All the history will be shown in the screen when you will add the transactions.
 # Versions 
 . Version 1:
-In this version it is a basic expence tracking system in which you will add trasactions to track the expence.
+In this version it is a basic expence tracking system in which you will add trasactions to track the expence.<br>
 . Version 2 :
-In this version we have added some currencies to track expence in different currency.
+In this version we have added some currencies to track expence in different currency.<br>
 . Version 3 :
 
 # Requirenments 
