@@ -10,11 +10,11 @@ In this project, we have created an expense tracking system where users can add 
 1.Screen will feature a name button and an amount button for adding       transactions to track expenses. It will also display the total expense, as  well as the profit or loss. Additionally, the screen will show the history  of all transactions as they are added.
 2.All the history will be shown in the screen when you will add the transactions.
 # Versions 
-. Version 1:
+. VERSION 1:<br>
 In this version it is a basic expence tracking system in which you will add trasactions to track the expence.<br>
-. Version 2 :
+. VERSION 2 :<br>
 In this version we have added some currencies to track expence in different currency.<br>
-. Version 3 :
+. VERSION 3 :<br>
 
 # Requirenments 
 . Html<br>
