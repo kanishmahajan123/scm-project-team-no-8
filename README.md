@@ -1,7 +1,7 @@
 # Made by :
-. Kamal(2310990537)
-. Kanish mahajan(2310990538)
-. Karan Mehta(2310990539)
+. Kamal(2310990537)<br>
+. Kanish mahajan(2310990538)<br>
+. Karan Mehta(2310990539)<br>
 # Expence Tracker
 Expence tracker is a project made with the help of Html, css and javascript to track your daily expences.
 # Instructions
@@ -17,6 +17,6 @@ In this version we have added some currencies to track expence in different curr
 . Version 3 :
 
 # Requirenments 
-. Html.
-. Css.
-. Javascript.
+. Html<br>
+. Css<br>
+. Javascript<br>
