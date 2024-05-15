@@ -15,6 +15,8 @@ In this version it is a basic expence tracking system in which you will add tras
 . VERSION 2 :<br>
 In this version we have added some currencies to track expence in different currency.<br>
 . VERSION 3 :<br>
+In this version we have added some category like food , rent ,Entertainment for adding expences.
+
 
 # Requirenments 
 . Html<br>
