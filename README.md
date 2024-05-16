@@ -1,24 +1,60 @@
-# Made by :
-. Kamal(2310990537)<br>
-. Kanish mahajan(2310990538)<br>
-. Karan Mehta(2310990539)<br>
-# Expence Tracker
-Expence tracker is a project made with the help of Html, css and javascript to track your daily expences.
-# Instructions
-In this project, we have created an expense tracking system where users can add expenses by entering transactions with a '+' or '-' sign followed by the amount. The system will automatically add or subtract the amount based on the sign of the transaction and display the total expenses.
-# Additional features
-1.Screen will feature a name button and an amount button for adding       transactions to track expenses. It will also display the total expense, as  well as the profit or loss. Additionally, the screen will show the history  of all transactions as they are added.
-2.All the history will be shown in the screen when you will add the transactions.
-# Versions 
-. VERSION 1:<br>
-In this version it is a basic expence tracking system in which you will add trasactions to track the expence.<br>
-. VERSION 2 :<br>
-In this version we have added some currencies to track expence in different currency.<br>
-. VERSION 3 :<br>
-In this version we have added some category like food , rent ,Entertainment for adding expences.
+# Expense Tracker
 
+Expense Tracker is a project developed with **HTML**, **CSS**, and **JavaScript** to help you manage your daily expenses effectively.By the help of this project you can monitor expenses made by you.
 
-# Requirenments 
-. Html<br>
-. Css<br>
-. Javascript<br>
+## Made by
+
+- Kamal (2310990537)
+
+  - Added category support for expenses (Version 3).
+
+- Kanish Mahajan (2310990538)
+  - Implemented the basic expense tracking system (Version 1).
+  - Worked on transaction history display and implemented total expenses display.
+
+- Karan Mehta (2310990539)
+  - Contributed to multi-currency support (Version 2).
+  - Integrated calendar for expense tracking by date (Version 4).
+
+## Overview
+
+Expense Tracker allows users to add expenses by entering transactions with a '+' or '-' sign followed by the amount. The system automatically calculates and displays the total expenses, profit or loss, and transaction history. This project also have multiple currencies options so you can select any given currency according to your prefernce. This project allows you to categorize in which field you are spending your money like rent etc. This project also include calendar by the help of which you can check on which date you have made any expense. 
+
+## Features
+
+1. **Transaction Entry:** Easily add transactions with a name and amount button.
+2. **Total Display:** See the total expense, profit or loss on the screen.
+3. **Transaction History:** View all transactions as they are added.
+4. **Currency Selection:** Choose from multiple currencies for tracking expenses.
+5. **Category Selection:** Categorize expenses into food, rent, entertainment, and more.
+6. **Date Tracking:** Use the calendar to track expenses by date.
+
+## Versions
+
+### VERSION 1
+- Basic expense tracking system.
+
+### VERSION 2
+- Added support for multiple currencies.
+
+### VERSION 3
+- Introduced expense categories like food, rent, and entertainment.
+
+### VERSION 4
+- Integrated a calendar for tracking expenses by date.
+- Expanded currency options.
+
+## Requirements
+
+- HTML
+- CSS
+- JavaScript
+
+## Instructions
+
+1. **Add Transactions:** Enter transactions with a '+' or '-' sign followed by the amount.
+4. **Currency Selection:** Choose your preferred currency for tracking expenses.
+5. **Category Selection:** Categorize expenses for better organization.
+6. **Date Tracking:** Use the calendar to monitor expenses by date.
+
+We hope that this project will help you to track your expenses and manage them.
