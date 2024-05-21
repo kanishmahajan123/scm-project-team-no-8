@@ -35,8 +35,6 @@ currencySelect.addEventListener('change', (e) => {
   selectedCurrency = e.target.value;
 });
 
-// ... rest of your existing code ...
-
 // Update the balance, income and expense with currency symbol
 function updateValues() {
   const amounts = transactions.map(transaction => transaction.amount);
